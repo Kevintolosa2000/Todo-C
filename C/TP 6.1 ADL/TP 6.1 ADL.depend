@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1667063146 source:c:\users\paola\onedrive\desktop\tp 6.1 adl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"FDFAlumnos.h"
+
+1666973068 source:c:\users\paola\onedrive\desktop\tp 6.1 adl\notaalumno.c
+	"notaAlumno.h"
+
+1666889208 c:\users\paola\onedrive\desktop\tp 6.1 adl\notaalumno.h
+	<stdlib.h>
+	<stdio.h>
+
+1666979686 source:c:\users\paola\onedrive\desktop\tp 6.1 adl\listaalumno.c
+	"listaAlumno.h"
+	<string.h>
+
+1666979686 c:\users\paola\onedrive\desktop\tp 6.1 adl\listaalumno.h
+	"notaAlumno.h"
+
+1666980525 source:c:\users\paola\onedrive\desktop\tp 6.1 adl\adlalumnos.c
+	"ADLAlumnos.h"
+
+1666980549 c:\users\paola\onedrive\desktop\tp 6.1 adl\adlalumnos.h
+	"listaAlumno.h"
+	"notaAlumno.h"
+	<string.h>
+
+1667068850 source:c:\users\paola\onedrive\desktop\tp 6.1 adl\fdfalumnos.c
+	"FDFAlumnos.h"
+
+1667063146 c:\users\paola\onedrive\desktop\tp 6.1 adl\fdfalumnos.h
+	"listaAlumno.h"
+	"notaAlumno.h"
+	<string.h>
+
+1666980526 source:c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\adlalumnos.c
+	"ADLAlumnos.h"
+
+1666980550 c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\adlalumnos.h
+	"listaAlumno.h"
+	"notaAlumno.h"
+	<string.h>
+
+1666979688 c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\listaalumno.h
+	"notaAlumno.h"
+
+1666889210 c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\notaalumno.h
+	<stdlib.h>
+	<stdio.h>
+
+1666979688 source:c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\listaalumno.c
+	"listaAlumno.h"
+	<string.h>
+
+1666973070 source:c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\notaalumno.c
+	"notaAlumno.h"
+
+1667183730 source:c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\fdfalumnos.c
+	"FDFAlumnos.h"
+
+1667063148 c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\fdfalumnos.h
+	"listaAlumno.h"
+	"notaAlumno.h"
+	<string.h>
+
+1668384111 source:c:\users\kevin\desktop\cosas\.exe\tp 6.1 adl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"FDFAlumnos.h"
+

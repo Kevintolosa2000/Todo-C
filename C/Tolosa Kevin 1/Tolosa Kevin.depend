@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654817205 source:c:\users\kevin\desktop\cosas\.exe\tolosa kevin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"pila.h"
+	<string.h>
+
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\tolosa kevin\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\tolosa kevin\pila.h
+	<stdio.h>
+	<malloc.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1655693828 source:d:\documentos\tester\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+
+1655694216 source:c:\users\kevin\desktop\cosas\.exe\tester\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\parcial prueba\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\parcial prueba\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655418855 source:c:\users\kevin\desktop\cosas\.exe\parcial prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

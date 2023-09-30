@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1651273608 source:c:\users\kev\documents\programacion\arreglos tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\kev\documents\programacion\arreglos tp4\pila.c
+	"pila.h"
+
+1490112217 c:\users\kev\documents\programacion\arreglos tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\kevin\desktop\cosas\.exe\arreglos tp4\pila.c
+	"pila.h"
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\arreglos tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+

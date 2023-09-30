@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1668790470 source:c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ADAAnimales.h"
+	"LDAAnimales.h"
+
+1668383790 source:c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\animales.c
+	"animles.h"
+
+1668383742 c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\animles.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1668383321 source:c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\arbolesanimal.c
+	"arbolesAnimal.h"
+
+1668383278 c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\arbolesanimal.h
+	"animles.h"
+
+1668382843 source:c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\adaanimales.c
+	"ADAAnimales.h"
+
+1668383423 c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\adaanimales.h
+	"arbolesAnimal.h"
+	<string.h>
+
+1668790458 source:c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\ldaanimales.c
+	"LDAAnimales.h"
+
+1668790110 c:\users\paola\onedrive\desktop\tp 6.2 arreglo de arboles\ldaanimales.h
+	"arbolesAnimal.h"
+
+1668382844 source:c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\adaanimales.c
+	"ADAAnimales.h"
+
+1668383424 c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\adaanimales.h
+	"arbolesAnimal.h"
+	<string.h>
+
+1668383280 c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\arbolesanimal.h
+	"animles.h"
+
+1668383744 c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\animles.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1668383792 source:c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\animales.c
+	"animles.h"
+
+1668383322 source:c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\arbolesanimal.c
+	"arbolesAnimal.h"
+
+1668790472 source:c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ADAAnimales.h"
+	"LDAAnimales.h"
+
+1668790112 c:\users\kevin\desktop\cosas\.exe\tp 6.2 arreglo de arboles\ldaanimales.h
+	"arbolesAnimal.h"
+

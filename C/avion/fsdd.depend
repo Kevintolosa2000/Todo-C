@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668440685 source:c:\users\kevin\desktop\fsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668788234 source:c:\users\kevin\desktop\cosas\.exe\avion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

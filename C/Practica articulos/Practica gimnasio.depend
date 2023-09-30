@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1670015932 source:c:\users\kevin\desktop\practica gimnasio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+
+1490112218 source:c:\users\kevin\desktop\practica gimnasio\pila.c
+	"pila.h"
+
+1490112218 c:\users\kevin\desktop\practica gimnasio\pila.h
+	<stdio.h>
+	<malloc.h>
+

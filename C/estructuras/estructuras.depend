@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1650587614 source:c:\users\franco\onedrive\escritorio\codeblocks\estructuras\pila.c
+	"pila.h"
+
+1490112217 c:\users\franco\onedrive\escritorio\codeblocks\estructuras\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1653062096 source:c:\users\franco\onedrive\escritorio\codeblocks\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"pila.h"
+	<string.h>
+
+1653060735 source:c:\users\franco\onedrive\escritorio\codeblocks\estructuras\bin\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1658422651 source:c:\users\kevin\desktop\cosas\.exe\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"pila.h"
+	<string.h>
+
+1490112217 c:\users\kevin\desktop\cosas\.exe\estructuras\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650587614 source:c:\users\kevin\desktop\cosas\.exe\estructuras\pila.c
+	"pila.h"
+

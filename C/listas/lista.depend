@@ -1,0 +1,603 @@
+# depslib dependency file v1.0
+1665773432 source:d:\lista\cosas de persona.c
+	"cosasdepersonas.h"
+
+1665773432 d:\lista\cosasdepersonas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cosasdepersonas.h"
+
+1666387291 source:d:\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1666273546 d:\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666273546 source:d:\lista\nodo.c
+	"nodo.h"
+
+1665055174 source:c:\users\franco\onedrive\escritorio\lista\cosas de persona.c
+	"cosasdepersonas.h"
+
+1666212460 c:\users\franco\onedrive\escritorio\lista\cosasdepersonas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cosasdepersonas.h"
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\nodo.c
+	"nodo.h"
+
+1666212462 c:\users\franco\onedrive\escritorio\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\productos.c
+	"productos.h"
+
+1666212462 c:\users\franco\onedrive\escritorio\lista\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cosasdepersonas.h"
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1666273548 d:\lista\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666273548 source:d:\lista\productos.c
+	"productos.h"
+
+1664995728 source:c:\users\kevin\desktop\cosas\.exe\lista\cosas de persona.c
+	"cosasdepersonas.h"
+
+1664995728 c:\users\kevin\desktop\cosas\.exe\lista\cosasdepersonas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cosasdepersonas.h"
+
+1665069469 source:c:\users\kevin\desktop\cosas\.exe\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cosasdepersonas.h"
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+
+1664995728 c:\users\kevin\desktop\cosas\.exe\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1664995730 c:\users\kevin\desktop\cosas\.exe\lista\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1665069261 source:c:\users\kevin\desktop\cosas\.exe\lista\productos.c
+	"productos.h"
+
+1665069469 source:c:\users\kevin\desktop\cosas\.exe\lista\nodo.c
+	"nodo.h"
+
+1666273546 d:\lista\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666273546 source:d:\lista\nododoble.c
+	"nodoDoble.h"
+
+1666273548 source:d:\lista\pila.c
+	"pila.h"
+
+1666273548 d:\lista\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1664995730 c:\users\kevin\desktop\cosas\.exe\lista\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1664995728 source:c:\users\kevin\desktop\cosas\.exe\lista\nododoble.c
+	"nodoDoble.h"
+
+1664995730 source:c:\users\kevin\desktop\cosas\.exe\lista\pila.c
+	"pila.h"
+
+1665068563 source:c:\users\kevin\desktop\cosas\.exe\lista\parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665773434 source:d:\lista\parcial.c
+
+1664995730 c:\users\kevin\desktop\cosas\.exe\lista\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1664924340 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\cosas de persona.c
+	"cosasdepersonas.h"
+
+1664925053 c:\users\usuario\desktop\lista-20221004t230120z-001\lista\cosasdepersonas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cosasdepersonas.h"
+
+1664926175 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cosasdepersonas.h"
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+
+1664928019 c:\users\usuario\desktop\lista-20221004t230120z-001\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1664924341 c:\users\usuario\desktop\lista-20221004t230120z-001\lista\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1664926668 c:\users\usuario\desktop\lista-20221004t230120z-001\lista\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1664926668 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\nododoble.c
+	"nodoDoble.h"
+
+1664929880 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1664924340 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\pila.c
+	"pila.h"
+
+1664924341 c:\users\usuario\desktop\lista-20221004t230120z-001\lista\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1664924340 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\productos.c
+	"productos.h"
+
+1664929742 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\nodo.c
+	"nodo.h"
+
+1664925110 source:c:\users\usuario\desktop\lista-20221004t230120z-001\lista\recursividadarreglos.c
+
+1664995730 source:c:\users\kevin\desktop\cosas\.exe\lista\recursividadarreglos.c
+
+1666212462 c:\users\franco\onedrive\escritorio\lista\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\nododoble.c
+	"nodoDoble.h"
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\parcial.c
+
+1666212462 source:c:\users\franco\onedrive\escritorio\lista\pila.c
+	"pila.h"
+
+1666212462 c:\users\franco\onedrive\escritorio\lista\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1665701227 source:c:\users\franco\onedrive\escritorio\lista\recursividadarreglos.c
+
+1666212460 c:\users\franco\onedrive\escritorio\lista\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1665687254 source:c:\users\usuario\desktop\lista\cosas de persona.c
+	"cosasdepersonas.h"
+
+1665687252 c:\users\usuario\desktop\lista\cosasdepersonas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cosasdepersonas.h"
+
+1665787739 source:c:\users\usuario\desktop\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cosasdepersonas.h"
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1665786617 c:\users\usuario\desktop\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1665687256 c:\users\usuario\desktop\lista\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1665785291 c:\users\usuario\desktop\lista\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1665787642 c:\users\usuario\desktop\lista\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1665786596 source:c:\users\usuario\desktop\lista\nodo.c
+	"nodo.h"
+
+1665786280 source:c:\users\usuario\desktop\lista\parcial.c
+
+1665785985 source:c:\users\usuario\desktop\lista\pila.c
+	"pila.h"
+
+1665785985 c:\users\usuario\desktop\lista\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1665687254 source:c:\users\usuario\desktop\lista\productos.c
+	"productos.h"
+
+1665687256 source:c:\users\usuario\desktop\lista\recursividadarreglos.c
+
+1665783809 source:c:\users\usuario\desktop\lista\nododoble.c
+	"nodoDoble.h"
+
+1665785718 source:c:\users\usuario\desktop\lista\fila.c
+	"fila.h"
+
+1665785371 c:\users\usuario\desktop\lista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1665787601 source:c:\users\usuario\desktop\lista\arboles2.c
+	"arboles.h"
+
+1666386957 source:d:\lista\arboles2.c
+	"arboles.h"
+
+1666273544 d:\lista\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666273546 source:d:\lista\fila.c
+	"fila.h"
+
+1666273544 d:\lista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1665773434 source:d:\lista\recursividadarreglos.c
+
+1666273544 source:d:\lista\adl.c
+	"ADL.h"
+
+1666273544 d:\lista\adl.h
+	"nodo.h"
+
+1666212460 source:c:\users\franco\onedrive\escritorio\lista\arboles2.c
+	"arboles.h"
+
+1666212460 source:c:\users\franco\onedrive\escritorio\lista\fila.c
+	"fila.h"
+
+1666212460 c:\users\franco\onedrive\escritorio\lista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1666287850 source:c:\users\franco\onedrive\escritorio\lista\adl.c
+	"ADL.h"
+
+1666287859 c:\users\franco\onedrive\escritorio\lista\adl.h
+	"nodo.h"
+
+1666259144 source:c:\users\franco\onedrive\escritorio\listas\adl.c
+	"ADL.h"
+
+1666259144 c:\users\franco\onedrive\escritorio\listas\adl.h
+	"nodo.h"
+
+1666259146 c:\users\franco\onedrive\escritorio\listas\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666259148 c:\users\franco\onedrive\escritorio\listas\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666259146 source:c:\users\franco\onedrive\escritorio\listas\fila.c
+	"fila.h"
+
+1666259144 c:\users\franco\onedrive\escritorio\listas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1666259146 c:\users\franco\onedrive\escritorio\listas\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666259146 source:c:\users\franco\onedrive\escritorio\listas\nodo.c
+	"nodo.h"
+
+1666259146 source:c:\users\franco\onedrive\escritorio\listas\nododoble.c
+	"nodoDoble.h"
+
+1666259148 source:c:\users\franco\onedrive\escritorio\listas\pila.c
+	"pila.h"
+
+1666259148 c:\users\franco\onedrive\escritorio\listas\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1666259148 source:c:\users\franco\onedrive\escritorio\listas\productos.c
+	"productos.h"
+
+1666889541 source:c:\users\franco\onedrive\escritorio\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1666896979 c:\users\franco\onedrive\escritorio\listas\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666896979 source:c:\users\franco\onedrive\escritorio\listas\arboles2.c
+	"arboles.h"
+
+1666882732 source:d:\listas\adl.c
+	"ADL.h"
+
+1666882732 d:\listas\adl.h
+	"nodo.h"
+
+1666882734 d:\listas\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666882734 d:\listas\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666882732 source:d:\listas\fila.c
+	"fila.h"
+
+1666882732 d:\listas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1666882734 d:\listas\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666882734 source:d:\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1666882732 d:\listas\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666882734 source:d:\listas\nodo.c
+	"nodo.h"
+
+1666882734 source:d:\listas\nododoble.c
+	"nodoDoble.h"
+
+1666882734 source:d:\listas\pila.c
+	"pila.h"
+
+1666882734 d:\listas\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1666913070 source:d:\listas\productos.c
+	"productos.h"
+
+1666913070 source:d:\listas\arboles2.c
+	"arboles.h"
+
+1666899430 source:c:\users\kevin\desktop\cosas\.exe\listas\adl.c
+	"ADL.h"
+
+1666899430 c:\users\kevin\desktop\cosas\.exe\listas\adl.h
+	"nodo.h"
+
+1666899432 c:\users\kevin\desktop\cosas\.exe\listas\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1666899432 c:\users\kevin\desktop\cosas\.exe\listas\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1666899430 source:c:\users\kevin\desktop\cosas\.exe\listas\fila.c
+	"fila.h"
+
+1666899430 c:\users\kevin\desktop\cosas\.exe\listas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nodoDoble.h"
+	"productos.h"
+
+1666899434 c:\users\kevin\desktop\cosas\.exe\listas\nododoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1668392757 source:c:\users\kevin\desktop\cosas\.exe\listas\nodo.c
+	"nodo.h"
+
+1666899434 source:c:\users\kevin\desktop\cosas\.exe\listas\nododoble.c
+	"nodoDoble.h"
+
+1666899434 source:c:\users\kevin\desktop\cosas\.exe\listas\pila.c
+	"pila.h"
+
+1666899434 c:\users\kevin\desktop\cosas\.exe\listas\pila.h
+	<stdio.h>
+	<malloc.h>
+	"productos.h"
+	"nodo.h"
+
+1666899434 source:c:\users\kevin\desktop\cosas\.exe\listas\productos.c
+	"productos.h"
+
+1668392757 source:c:\users\kevin\desktop\cosas\.exe\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"productos.h"
+	"nodoDoble.h"
+	"arboles.h"
+
+1666899430 c:\users\kevin\desktop\cosas\.exe\listas\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"productos.h"
+
+1668431553 source:c:\users\kevin\desktop\cosas\.exe\listas\arboles2.c
+	"arboles.h"
+

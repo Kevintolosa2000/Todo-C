@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654709438 source:c:\users\paola\onedrive\desktop\mateo\utn\1ero\programacion y laboratorio 1\parcial 2 practica equipos futbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1654807049 source:c:\users\kevin\desktop\cosas\.exe\parcial 2 practica equipos futbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1654807212 source:c:\users\kevin\desktop\cosas\.exe\prueba en archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
